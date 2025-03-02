@@ -1,7 +1,3 @@
-# Air Passenger Data - Time Series Analysis - SARIMAX
-
-**Complete Video Tutorial:** https://youtu.be/H6UEywvWpn0
-
 # Dataset Information
 
 The dataset provides monthly totals of a US airline passengers from 1949 to 1960. The objective is to forecast 24 months based on the historical data using ARIMA.
